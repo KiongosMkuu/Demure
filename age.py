@@ -1,4 +1,4 @@
-age =16
+age =20
 if age >=18:
     print("Youa are an adult")
 else:
